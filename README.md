@@ -1,16 +1,16 @@
 # Githuber
 
-Hello, Thanks for using or being intested in Githuber Theme. 
+Hello, Thanks for using or being interested in Githuber Theme. 
 
 This theme has been changed its name accordingly from Githuber to Mynote because of possible trademark issue.
 
-Repository: https://github.com/terrylinooo/mynote/
+Repository here: https://github.com/terrylinooo/mynote/
 
 ![Screenshot](./screenshot.png)
 
-
-
 ## Download
+
+You can download and use Mynote theme now, just search `Mynote` on theme screen or WordPress theme directory.
 
 | source | download | 
 | --- | --- | 
